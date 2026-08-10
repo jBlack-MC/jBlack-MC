@@ -143,12 +143,75 @@ The destination can wait.
 
 ---
 
-# 📊 Activity
+# 🧪 The Lab
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&theme=transparent&title_color=CBD5E1&text_color=94A3B8" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1400&color=64748B&center=true&vCenter=true&width=600&lines=Experiment+%23001+%E2%80%94+Learning;Experiment+%23002+%E2%80%94+Building;Experiment+%23003+%E2%80%94+Something+Unexpected;Status%3A+Still+Under+Construction." />
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="250" align="center">
+
+### 🧠
+
+**IDEAS**
+
+Things worth exploring.
+
+</td>
+
+<td width="250" align="center">
+
+### ⚙️
+
+**EXPERIMENTS**
+
+Things worth trying.
+
+</td>
+
+<td width="250" align="center">
+
+### 🔭
+
+**DISCOVERIES**
+
+Things worth keeping.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+```text
+┌────────────────────────────────────────┐
+│                                        │
+│     STATUS        EXPERIMENTAL         │
+│     VERSION       0.??                 │
+│     PROGRESS      ███████░░░           │
+│     DIRECTION     UNKNOWN              │
+│                                        │
+└────────────────────────────────────────┘
+```
+
+</p>
+
+<p align="center">
+  <i>Not everything here is supposed to make sense yet.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=475569&center=true&vCenter=true&width=550&lines=Some+experiments+fail.;Some+teach+you+something.;A+few+turn+into+something+else." />
+</p>
+
 
 ---
 
