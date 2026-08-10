@@ -6,20 +6,20 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:1E293B,100:475569&height=230&section=header&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0B1120,55:172554,80:312E81,100:0F172A&height=230&section=header&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
 
-### **JBLACK-MC**
+# **JBLACK-MC**
 
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=4200&pause=1800&color=CBD5E1&center=true&vCenter=true&width=650&lines=Learn.+Build.+Explore.;There+is+no+fixed+destination.;The+next+chapter+is+still+unwritten."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=19&duration=4200&pause=1800&color=E2E8F0&center=true&vCenter=true&width=680&lines=Learn.+Build.+Explore.;There+is+no+fixed+destination.;The+next+chapter+is+still+unwritten."
     alt="Introduction"
   />
 </p>
@@ -33,7 +33,7 @@
 <br>
 
 <p align="center">
-  <sub>─────────────── ✦ ───────────────</sub>
+  <sub>─────────────── ◆ ───────────────</sub>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -57,14 +57,13 @@ Others are simply ideas worth exploring.
 <br>
 
 <p align="center">
-  <sub>─────────────── ◆ ───────────────</sub>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1600&color=64748B&center=true&vCenter=true&width=600&lines=Look+around.;Explore+something.;You+may+find+something+interesting."
+    alt="Explore"
+  />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         TECHNOLOGIES                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🛠️ Technologies
 
@@ -100,21 +99,13 @@ Others are simply ideas worth exploring.
   <sub>NetBeans · XAMPP · Vite · Composer</sub>
 </p>
 
-<p align="center">
-  <i>Tools evolve. Fundamentals endure.</i>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                       CURRENTLY LEARNING                         -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 📚 Currently Learning
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=818CF8&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals."
     alt="Currently Learning"
   />
 </p>
@@ -139,11 +130,7 @@ Others are simply ideas worth exploring.
 
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                            PROJECTS                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🚀 Projects
 
@@ -154,7 +141,7 @@ Some things are better discovered.
 <p align="center">
   <a href="https://github.com/jBlack-MC?tab=repositories">
     <img
-      src="https://img.shields.io/badge/EXPLORE%20THE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=050505&color=374151"
+      src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=020617&color=312E81"
       alt="Explore repositories"
     />
   </a>
@@ -164,11 +151,7 @@ Some things are better discovered.
   <sub>You never know what you'll find.</sub>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                            EXPLORING                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🌱 Exploring
 
@@ -222,11 +205,7 @@ the fun.
 
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                           THE JOURNEY                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🗺️ The Journey
 
@@ -243,11 +222,7 @@ the fun.
   />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                            DIRECTION                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🎯 Direction
 
@@ -257,17 +232,13 @@ the fun.
   <sub>THE DESTINATION CAN WAIT.</sub>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                              LAB                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🧪 The Lab
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES.;REPEAT."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES.;REPEAT."
     alt="The Lab"
   />
 </p>
@@ -329,17 +300,13 @@ Things worth keeping.
   <sub>Still under construction.</sub>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                          CONSISTENCY                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🔥 Consistency
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=9CA3AF&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280"
+    src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=818CF8&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
     width="500"
     alt="GitHub Contribution Streak"
   />
@@ -349,30 +316,30 @@ Things worth keeping.
   <sub>Small steps. Consistent progress.</sub>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                           PHILOSOPHY                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 # 🧠 Philosophy
 
+<p align="center">
+
 ### **Learn quietly. Build deliberately. Improve constantly.**
+
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=4500&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=4500&pause=1800&color=818CF8&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going."
     alt="Philosophy"
   />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                         CINEMATIC FOOTER                         -->
+<!--                         CINEMATIC END                            -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br>
+<br><br>
 
 <p align="center">
   <sub>─────────────── ◆ ───────────────</sub>
@@ -380,16 +347,21 @@ Things worth keeping.
 
 <br>
 
+<!--
+  The page gets quieter here.
+  The animation is intentionally separated from the content.
+-->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,35:1E293B,65:0F172A,100:020617&height=180&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,25:172554,55:0F172A,80:0B1120,100:020617&height=200&section=footer&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=15&duration=5000&pause=2000&color=94A3B8&center=true&vCenter=true&width=600&lines=Keep+learning.;Keep+building.;Keep+exploring."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=16&duration=5000&pause=2000&color=CBD5E1&center=true&vCenter=true&width=620&lines=Keep+learning.;Keep+building.;Keep+exploring.;The+story+is+still+being+written."
     alt="Closing message"
   />
 </p>
@@ -399,5 +371,9 @@ Things worth keeping.
 </p>
 
 <p align="center">
-  <i>The story is still being written.</i>
+  <i>Thanks for stopping by.</i>
+</p>
+
+<p align="center">
+  <sub>JBLACK-MC · 2026</sub>
 </p>
