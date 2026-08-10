@@ -1,37 +1,24 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ATMOSPHERE                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=&fontSize=0&fontColor=E2E8F0&animation=twinkling&color=0:020617,25:0B1120,50:172554,75:312E81,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&animation=fadeIn&color=0:020617,35:0B1120,65:172554,100:312E81"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=4200&pause=2600&color=E2E8F0&center=true&vCenter=true&width=700&lines=Learning.+Building.+Exploring.;One+step%2C+then+the+next."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=5000&pause=2800&color=E2E8F0&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring."
     alt="Learning Building Exploring"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/-%E2%80%A2%20SOFTWARE%20DEVELOPMENT%20%E2%80%A2-0F172A?style=flat-square&labelColor=020617&color=1E293B"
-    alt="Software Development"
-  />
+  <sub>Software Development · Technology · Curiosity</sub>
 </p>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           WELCOME                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<table width="100%">
-<tr>
-<td width="68%" valign="middle">
+---
 
 # 🧭 Welcome
 
@@ -45,164 +32,84 @@ Some are works in progress.
 
 Others are simply ideas worth exploring.
 
-</td>
-<td width="32%" align="center" valign="middle">
-
-```text
-   ┌──────────────┐
-   │              │
-   │   EXPLORE    │
-   │      ↓       │
-   │   DISCOVER   │
-   │      ↓       │
-   │      ?       │
-   │              │
-   └──────────────┘
-```
-
-</td>
-</tr>
-</table>
-
 <br>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=5500&pause=2800&color=475569&center=true&vCenter=true&width=650&lines=No+fixed+destination.+Just+another+step."
-    alt=""
-  />
+  <sub>✦ &nbsp; keep looking &nbsp; ✦</sub>
 </p>
+
+<br>
 
 ---
 
 # 🛠️ Technologies
 
-<p align="right">
-  <sub>TOOLS CHANGE · FUNDAMENTALS REMAIN</sub>
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs" />
 </p>
 
-<br>
+### Frameworks & Platforms
 
-<table width="100%">
-<tr>
-
-<td width="25%" align="center" valign="top">
-
-### `01`
-**LANGUAGES**
-
-<br>
-
-Java<br>
-PHP<br>
-JavaScript<br>
-HTML / CSS<br>
-C#
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `02`
-**FRAMEWORKS**
-
-<br>
-
-Laravel<br>
-.NET<br>
-.NET MAUI
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `03`
-**RUNTIME**
-
-<br>
-
-Node.js<br>
-npm<br>
-Vite
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### `04`
-**DATA / TOOLS**
-
-<br>
-
-MySQL<br>
-Git<br>
-GitHub<br>
-VS Code<br>
-NetBeans
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs,laravel,dotnet,nodejs,mysql,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet" />
 </p>
 
-<p align="center">
+### Runtime & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,mysql" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+<p>
   <sub>NetBeans · XAMPP · Vite · Composer</sub>
 </p>
+
+<br>
 
 ---
 
 # 📚 Currently Learning
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
+<p align="center">
 
 `Data Structures & Algorithms`
-
+ • 
 `Object-Oriented Programming`
-
+ • 
 `Backend Development`
 
-</td>
-
-<td width="50%" valign="top">
+<br><br>
 
 `Software Architecture`
-
+ • 
 `Problem Solving`
-
+ • 
 `Git & GitHub`
 
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3800&pause=2200&color=818CF8&center=true&vCenter=true&width=620&lines=Strengthening+the+foundations.;Understanding+what+happens+beneath+the+surface."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=5000&pause=3000&color=818CF8&center=true&vCenter=true&width=560&lines=Still+learning.;Still+figuring+things+out."
     alt=""
   />
 </p>
 
+<br>
+
 ---
 
 # 🚀 Projects
-
-<table width="100%">
-<tr>
-<td width="75%" valign="middle">
 
 ### **Not everything needs an explanation.**
 
@@ -210,85 +117,61 @@ Some things are better discovered.
 
 I'm working on different projects while learning, experimenting, and improving.
 
-</td>
-<td width="25%" align="center" valign="middle">
-
-### `LAB`
-🧪
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <p align="center">
+  <br>
   <a href="https://github.com/jBlack-MC?tab=repositories">
     <img
-      src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=020617&color=4F46E5"
-      alt="Explore repositories"
+      src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=020617&color=312E81"
+      alt="Repositories"
     />
   </a>
 </p>
+
+<br>
 
 ---
 
 # 🌱 Exploring
 
-<br>
+<p align="center">
 
-<table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### ◇
-## TECHNOLOGY
-
-<br>
+### ◇   Technology
 
 New tools.<br>
 New possibilities.<br>
 New questions.
 
-</td>
-
-<td width="34%" align="center" valign="top">
-
-### ◇
-## IDEAS
-
 <br>
+
+### ◇   Ideas
 
 Things worth trying.<br>
 Things worth building.<br>
 Things worth questioning.
 
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ◇
-## WHAT'S NEXT
-
 <br>
+
+### ◇   What's Next
 
 Still unknown.<br>
 That's part of<br>
 the fun.
 
-</td>
-
-</tr>
-</table>
+</p>
 
 <br>
 
 <p align="center">
-
-`Learn` • `Explore` • `Build` • `Discover`
-
+  <code>Learn</code>
+  &nbsp;•&nbsp;
+  <code>Explore</code>
+  &nbsp;•&nbsp;
+  <code>Build</code>
+  &nbsp;•&nbsp;
+  <code>Discover</code>
 </p>
+
+<br>
 
 ---
 
@@ -296,37 +179,26 @@ the fun.
 
 <p align="center">
 
-```text
-BEGIN
-  │
-  ▼
-EXPLORE
-  │
-  ▼
-DISCOVER
-  │
-  ▼
-  ?
-```
+### `BEGIN → EXPLORE → DISCOVER → ?`
 
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4600&pause=2600&color=64748B&center=true&vCenter=true&width=620&lines=Some+paths+are+found+by+walking+them."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=5500&pause=3500&color=64748B&center=true&vCenter=true&width=600&lines=Some+paths+are+found+by+walking+them."
     alt=""
   />
 </p>
+
+<br>
 
 ---
 
 # 🎯 Direction
 
-<br>
-
 <p align="center">
 
-## **Keep learning. Keep moving.**
+### **Keep learning. Keep moving.**
 
 <br>
 
@@ -340,81 +212,61 @@ DISCOVER
 
 # 🧪 The Lab
 
-<table width="100%">
-<tr>
+<p align="center">
 
-<td width="33%" align="center" valign="top">
+### 🧠   IDEAS
 
-### 🧠
-**IDEAS**
+    
 
-<br>
+### ⚙️   EXPERIMENTS
 
-Things worth exploring.
+    
 
-</td>
+### 🔭   DISCOVERIES
 
-<td width="34%" align="center" valign="top">
+</p>
 
-### ⚙️
-**EXPERIMENTS**
-
-<br>
-
-Things worth trying.
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🔭
-**DISCOVERIES**
-
-<br>
-
-Things worth keeping.
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <sub>
+    Things worth exploring &nbsp;·&nbsp;
+    Things worth trying &nbsp;·&nbsp;
+    Things worth keeping
+  </sub>
+</p>
 
 <br>
 
 <p align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                                │
-│   STATUS       EXPERIMENTAL                   │
-│   VERSION      0.??                           │
-│   PROGRESS     ███████░░░                     │
-│   DIRECTION    UNKNOWN                        │
-│                                                │
-└──────────────────────────────────────────────┘
+┌────────────────────────────────────────┐
+│                                        │
+│     STATUS        EXPERIMENTAL         │
+│     VERSION       0.??                 │
+│     PROGRESS      ███████░░░           │
+│     DIRECTION     UNKNOWN              │
+│                                        │
+└────────────────────────────────────────┘
 ```
 
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3400&pause=1800&color=22D3EE&center=true&vCenter=true&width=500&lines=Testing.;Learning.;Adjusting.;Continuing."
-    alt=""
-  />
+  <sub>Still under construction.</sub>
 </p>
+
+<br>
 
 ---
 
 # 🔥 Consistency
 
-<br>
-
 <p align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
-  width="520"
-  alt="GitHub contribution streak"
+src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
+width="500"
+alt="GitHub contribution streak"
 />
 
 </p>
@@ -425,17 +277,15 @@ Things worth keeping.
 
 # 🧠 Philosophy
 
-<br>
-
 <p align="center">
 
 ### **Learn quietly. Build deliberately. Improve constantly.**
 
-<br><br>
+<br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=5200&pause=3000&color=64748B&center=true&vCenter=true&width=550&lines=The+work+speaks+for+itself."
-  alt=""
+src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=6500&pause=4000&color=64748B&center=true&vCenter=true&width=560&lines=The+work+speaks+for+itself."
+alt=""
 />
 
 </p>
@@ -443,25 +293,21 @@ Things worth keeping.
 <br>
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           END                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
-  <sub>────────────────── ◆ ──────────────────</sub>
+  <sub>──────────────── ◆ ────────────────</sub>
 </p>
 
 <br>
 
+<!-- Quiet atmospheric ending -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:334155,30:1E293B,60:0F172A,100:020617"
+    src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&animation=fadeIn&color=0:312E81,35:172554,65:0F172A,100:020617"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <sub>
-    Still learning. Still building.
-  </sub>
+  <sub>Still learning. Still building.</sub>
 </p>
