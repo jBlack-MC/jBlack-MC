@@ -1,44 +1,28 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                              HERO                                -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# 🧭 Welcome
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,75:1F2937,100:4B5563&height=220&section=header&animation=fadeIn"
+    src="YOUR_ANIMATED_WELCOME_BANNER.gif"
     width="100%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=4200&pause=1700&color=E5E7EB&center=true&vCenter=true&width=700&lines=Learn.+Build.+Explore.;Ideas+become+experiments.;The+next+chapter+is+still+unwritten."
-    alt="Introduction"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    SOFTWARE DEVELOPMENT &nbsp;•&nbsp; TECHNOLOGY &nbsp;•&nbsp; CURIOSITY
-  </sub>
-</p>
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
-    width="280"
     alt=""
   />
 </p>
 
 <p align="center">
-  <sub>─────────────── ◆ ───────────────</sub>
-</p>
-
-# 🧭 Welcome
 
 ### **There is no fixed destination.**
+
+</p>
+
+<p align="center">
+  <sub>
+    Ideas become experiments.<br>
+    Experiments become projects.<br>
+    Projects sometimes become something unexpected.
+  </sub>
+</p>
+
+<br>
 
 A small corner of the internet where ideas become experiments, experiments become projects, and projects sometimes become something unexpected.
 
@@ -49,7 +33,7 @@ Some are works in progress.
 Others are simply ideas worth exploring.
 
 <p align="center">
-  <sub>◆ &nbsp; Keep looking. &nbsp; Something may catch your attention. &nbsp; ◆</sub>
+  <sub>─────────────── ◆ ───────────────</sub>
 </p>
 
 ---
@@ -67,13 +51,6 @@ Others are simply ideas worth exploring.
 ---
 
 # 📚 Currently Learning
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals."
-    alt="Learning"
-  />
-</p>
 
 <p align="center">
 
@@ -105,12 +82,8 @@ Some things are better discovered.
 
 <p align="center">
   <a href="https://github.com/jBlack-MC?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=050505&color=374151"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=050505&color=374151"/>
   </a>
-</p>
-
-<p align="center">
-  <sub>Somewhere in here, there may be something worth finding.</sub>
 </p>
 
 ---
@@ -159,10 +132,6 @@ the fun.
 </tr>
 </table>
 
-<p align="center">
-  <sub>LEARN &nbsp;•&nbsp; EXPLORE &nbsp;•&nbsp; BUILD &nbsp;•&nbsp; DISCOVER</sub>
-</p>
-
 ---
 
 # 🗺️ The Journey
@@ -173,33 +142,19 @@ the fun.
 
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=9CA3AF&center=true&vCenter=true&width=600&lines=Some+paths+are+found+by+walking+them.;Not+everything+needs+to+be+figured+out."
-    alt="Journey"
-  />
-</p>
-
 ---
 
 # 🎯 Direction
 
+<p align="center">
+
 ### **Keep learning. Keep moving.**
 
-<p align="center">
-  <sub>THE DESTINATION CAN WAIT.</sub>
 </p>
 
 ---
 
 # 🧪 The Lab
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES.;REPEAT."
-    alt="The Lab"
-  />
-</p>
 
 <table align="center">
 <tr>
@@ -239,8 +194,6 @@ Things worth keeping.
 
 <br>
 
-<p align="center">
-
 ```text
 ┌────────────────────────────────────────┐
 │                                        │
@@ -251,8 +204,6 @@ Things worth keeping.
 │                                        │
 └────────────────────────────────────────┘
 ```
-
-</p>
 
 ---
 
@@ -276,12 +227,7 @@ Things worth keeping.
 
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=4500&pause=1800&color=9CA3AF&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going."
-    alt="Philosophy"
-  />
-</p>
+---
 
 <br>
 
@@ -289,8 +235,28 @@ Things worth keeping.
   <sub>─────────────── ◆ ───────────────</sub>
 </p>
 
-<!-- A quiet detail for those who scroll this far. -->
+# 🌙 After Hours
 
 <p align="center">
-  <sub>Nothing here is quite finished.</sub>
+  <img
+    src="YOUR_LOFI_RAIN_ANIMATION.gif"
+    width="85%"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Some things are better left unfinished.
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <i>Thanks for stopping by.</i>
+</p>
+
+<p align="center">
+  <sub>─────────────── ◆ ───────────────</sub>
 </p>
