@@ -1,19 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                         ATMOSPHERE                              -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=&fontSize=0&fontColor=E2E8F0&animation=fadeIn&color=0:020617,25:0B1120,50:172554,75:312E81,100:0F172A"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=&fontSize=0&fontColor=E2E8F0&animation=twinkling&color=0:020617,25:0B1120,50:172554,75:312E81,100:0F172A"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=5000&pause=3000&color=E2E8F0&center=true&vCenter=true&width=700&lines=Learning.+Building.+Exploring."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=4200&pause=2600&color=E2E8F0&center=true&vCenter=true&width=700&lines=Learning.+Building.+Exploring.;One+step%2C+then+the+next."
     alt="Learning Building Exploring"
   />
 </p>
@@ -28,14 +26,12 @@
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                           WELCOME                                -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<table>
+<table width="100%">
 <tr>
-<td width="68%">
+<td width="68%" valign="middle">
 
 # 🧭 Welcome
 
@@ -50,8 +46,7 @@ Some are works in progress.
 Others are simply ideas worth exploring.
 
 </td>
-
-<td width="32%" align="center">
+<td width="32%" align="center" valign="middle">
 
 ```text
    ┌──────────────┐
@@ -73,7 +68,7 @@ Others are simply ideas worth exploring.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=6000&pause=3000&color=475569&center=true&vCenter=true&width=650&lines=No+fixed+destination.+Just+another+step."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=5500&pause=2800&color=475569&center=true&vCenter=true&width=650&lines=No+fixed+destination.+Just+another+step."
     alt=""
   />
 </p>
@@ -88,13 +83,12 @@ Others are simply ideas worth exploring.
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### `01`
-
 **LANGUAGES**
 
 <br>
@@ -107,10 +101,9 @@ C#
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### `02`
-
 **FRAMEWORKS**
 
 <br>
@@ -121,10 +114,9 @@ Laravel<br>
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### `03`
-
 **RUNTIME**
 
 <br>
@@ -135,10 +127,9 @@ Vite
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### `04`
-
 **DATA / TOOLS**
 
 <br>
@@ -170,10 +161,10 @@ NetBeans
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 `Data Structures & Algorithms`
 
@@ -183,7 +174,7 @@ NetBeans
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 `Software Architecture`
 
@@ -200,7 +191,7 @@ NetBeans
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4500&pause=2500&color=818CF8&center=true&vCenter=true&width=620&lines=Strengthening+the+foundations.;Understanding+what+happens+beneath+the+surface."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3800&pause=2200&color=818CF8&center=true&vCenter=true&width=620&lines=Strengthening+the+foundations.;Understanding+what+happens+beneath+the+surface."
     alt=""
   />
 </p>
@@ -209,9 +200,9 @@ NetBeans
 
 # 🚀 Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="75%">
+<td width="75%" valign="middle">
 
 ### **Not everything needs an explanation.**
 
@@ -220,11 +211,9 @@ Some things are better discovered.
 I'm working on different projects while learning, experimenting, and improving.
 
 </td>
-
-<td width="25%" align="center">
+<td width="25%" align="center" valign="middle">
 
 ### `LAB`
-
 🧪
 
 </td>
@@ -248,13 +237,12 @@ I'm working on different projects while learning, experimenting, and improving.
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### ◇
-
 ## TECHNOLOGY
 
 <br>
@@ -265,10 +253,9 @@ New questions.
 
 </td>
 
-<td width="33%" align="center">
+<td width="34%" align="center" valign="top">
 
 ### ◇
-
 ## IDEAS
 
 <br>
@@ -279,10 +266,9 @@ Things worth questioning.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### ◇
-
 ## WHAT'S NEXT
 
 <br>
@@ -300,10 +286,7 @@ the fun.
 
 <p align="center">
 
-`Learn`  • 
-`Explore`  • 
-`Build`  • 
-`Discover`
+`Learn` • `Explore` • `Build` • `Discover`
 
 </p>
 
@@ -330,7 +313,7 @@ DISCOVER
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=5000&pause=3000&color=64748B&center=true&vCenter=true&width=620&lines=Some+paths+are+found+by+walking+them."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4600&pause=2600&color=64748B&center=true&vCenter=true&width=620&lines=Some+paths+are+found+by+walking+them."
     alt=""
   />
 </p>
@@ -357,13 +340,12 @@ DISCOVER
 
 # 🧪 The Lab
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🧠
-
 **IDEAS**
 
 <br>
@@ -372,10 +354,9 @@ Things worth exploring.
 
 </td>
 
-<td width="33%" align="center">
+<td width="34%" align="center" valign="top">
 
 ### ⚙️
-
 **EXPERIMENTS**
 
 <br>
@@ -384,10 +365,9 @@ Things worth trying.
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🔭
-
 **DISCOVERIES**
 
 <br>
@@ -404,21 +384,21 @@ Things worth keeping.
 <p align="center">
 
 ```text
-┌────────────────────────────────────────────┐
-│                                            │
-│   STATUS       EXPERIMENTAL                │
-│   VERSION      0.??                        │
-│   PROGRESS     ███████░░░                  │
-│   DIRECTION    UNKNOWN                     │
-│                                            │
-└────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│                                                │
+│   STATUS       EXPERIMENTAL                   │
+│   VERSION      0.??                           │
+│   PROGRESS     ███████░░░                     │
+│   DIRECTION    UNKNOWN                        │
+│                                                │
+└──────────────────────────────────────────────┘
 ```
 
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=4000&pause=2200&color=22D3EE&center=true&vCenter=true&width=500&lines=Testing.;Learning.;Adjusting.;Continuing."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3400&pause=1800&color=22D3EE&center=true&vCenter=true&width=500&lines=Testing.;Learning.;Adjusting.;Continuing."
     alt=""
   />
 </p>
@@ -432,9 +412,9 @@ Things worth keeping.
 <p align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
-width="520"
-alt="GitHub contribution streak"
+  src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=6366F1&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=94A3B8&dates=64748B"
+  width="520"
+  alt="GitHub contribution streak"
 />
 
 </p>
@@ -454,8 +434,8 @@ alt="GitHub contribution streak"
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=6000&pause=3500&color=64748B&center=true&vCenter=true&width=550&lines=The+work+speaks+for+itself."
-alt=""
+  src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=5200&pause=3000&color=64748B&center=true&vCenter=true&width=550&lines=The+work+speaks+for+itself."
+  alt=""
 />
 
 </p>
@@ -464,9 +444,7 @@ alt=""
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                           END                                    -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
@@ -477,7 +455,7 @@ alt=""
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=fadeIn&color=0:334155,30:1E293B,60:0F172A,100:020617"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&animation=twinkling&color=0:334155,30:1E293B,60:0F172A,100:020617"
     width="100%"
   />
 </p>
