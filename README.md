@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                              HEADER                              -->
+<!--                           HEADER                                 -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -13,20 +13,18 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=4500&pause=2200&color=E2E8F0&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring."
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=5000&pause=2500&color=CBD5E1&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring."
     alt="Learning Building Exploring"
   />
 </p>
 
-<p align="center">
-  <sub>
-    SOFTWARE DEVELOPMENT &nbsp;•&nbsp; TECHNOLOGY &nbsp;•&nbsp; CURIOSITY
-  </sub>
-</p>
-
 <br>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                           WELCOME                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 # 🧭 Welcome
 
@@ -89,20 +87,26 @@ Others are simply ideas worth exploring.
 </p>
 
 <p>
-  <sub>
-    NetBeans &nbsp;·&nbsp; XAMPP &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Composer
-  </sub>
+  <sub>NetBeans &nbsp;·&nbsp; XAMPP &nbsp;·&nbsp; Vite &nbsp;·&nbsp; Composer</sub>
 </p>
 
 <br>
+
+<p align="center">
+  <sub>
+    Tools change. The fundamentals remain.
+  </sub>
+</p>
 
 ---
 
 # 📚 Currently Learning
 
+<br>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3800&pause=1700&color=818CF8&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4200&pause=2200&color=818CF8&center=true&vCenter=true&width=600&lines=Strengthening+the+foundations.;Going+beyond+the+surface.;Understanding+how+things+work."
     alt="Currently Learning"
   />
 </p>
@@ -135,6 +139,8 @@ Others are simply ideas worth exploring.
 
 # 🚀 Projects
 
+<br>
+
 ### **Not everything needs an explanation.**
 
 Some things are better discovered.
@@ -144,12 +150,9 @@ I'm working on different projects while learning, experimenting, and improving.
 <br>
 
 <p align="center">
-  <a href="https://github.com/jBlack-MC?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/VIEW%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=020617&color=312E81"
-      alt="View repositories"
-    />
-  </a>
+  <sub>
+    ─────────────── ◇ ───────────────
+  </sub>
 </p>
 
 <br>
@@ -167,7 +170,9 @@ I'm working on different projects while learning, experimenting, and improving.
 
 ### ◇
 
-### Technology
+**TECHNOLOGY**
+
+<br>
 
 New tools.<br>
 New possibilities.<br>
@@ -179,7 +184,9 @@ New questions.
 
 ### ◇
 
-### Ideas
+**IDEAS**
+
+<br>
 
 Things worth trying.<br>
 Things worth building.<br>
@@ -191,7 +198,9 @@ Things worth questioning.
 
 ### ◇
 
-### What's Next
+**WHAT'S NEXT**
+
+<br>
 
 Still unknown.<br>
 That's part of<br>
@@ -205,15 +214,13 @@ the fun.
 <br>
 
 <p align="center">
-  <sub>
-    <code>LEARN</code>
-    &nbsp;•&nbsp;
-    <code>EXPLORE</code>
-    &nbsp;•&nbsp;
-    <code>BUILD</code>
-    &nbsp;•&nbsp;
-    <code>DISCOVER</code>
-  </sub>
+  <code>Learn</code>
+  &nbsp;•&nbsp;
+  <code>Explore</code>
+  &nbsp;•&nbsp;
+  <code>Build</code>
+  &nbsp;•&nbsp;
+  <code>Discover</code>
 </p>
 
 <br>
@@ -234,7 +241,7 @@ the fun.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4500&pause=2000&color=64748B&center=true&vCenter=true&width=580&lines=Some+paths+are+found+by+walking+them.;Not+everything+needs+to+be+figured+out."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4800&pause=2400&color=64748B&center=true&vCenter=true&width=600&lines=Some+paths+are+found+by+walking+them.;Not+everything+needs+to+be+figured+out."
     alt="The Journey"
   />
 </p>
@@ -247,10 +254,14 @@ the fun.
 
 <br>
 
+<p align="center">
+
 ### **Keep learning. Keep moving.**
 
-<p>
-  <sub>The destination can wait.</sub>
+<br>
+
+<sub>The destination can wait.</sub>
+
 </p>
 
 <br>
@@ -263,7 +274,7 @@ the fun.
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3200&pause=1600&color=22D3EE&center=true&vCenter=true&width=550&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES.;REPEAT."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3600&pause=1800&color=22D3EE&center=true&vCenter=true&width=550&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES."
     alt="The Lab"
   />
 </p>
@@ -279,6 +290,8 @@ the fun.
 
 **IDEAS**
 
+<br>
+
 Things worth exploring.
 
 </td>
@@ -289,6 +302,8 @@ Things worth exploring.
 
 **EXPERIMENTS**
 
+<br>
+
 Things worth trying.
 
 </td>
@@ -298,6 +313,8 @@ Things worth trying.
 ### 🔭
 
 **DISCOVERIES**
+
+<br>
 
 Things worth keeping.
 
@@ -343,10 +360,6 @@ Things worth keeping.
   />
 </p>
 
-<p align="center">
-  <sub>Small steps. Consistent progress.</sub>
-</p>
-
 <br>
 
 ---
@@ -359,15 +372,13 @@ Things worth keeping.
 
 ### **Learn quietly. Build deliberately. Improve constantly.**
 
-</p>
-
 <br>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=5000&pause=2500&color=64748B&center=true&vCenter=true&width=550&lines=The+work+speaks+for+itself."
-    alt="Philosophy"
-  />
+<img
+src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=5500&pause=2800&color=64748B&center=true&vCenter=true&width=560&lines=The+work+speaks+for+itself."
+alt="The work speaks for itself"
+/>
+
 </p>
 
 <br>
@@ -375,7 +386,7 @@ Things worth keeping.
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                              FOOTER                             -->
+<!--                           FOOTER                                 -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -393,9 +404,7 @@ Things worth keeping.
 </p>
 
 <p align="center">
-  <sub>
-    Still learning. Still building.
-  </sub>
+  <sub>Still learning. Still building.</sub>
 </p>
 
 <br>
