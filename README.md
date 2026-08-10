@@ -1,10 +1,44 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                              HERO                                -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,75:1F2937,100:4B5563&height=220&section=header&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=4200&pause=1700&color=E5E7EB&center=true&vCenter=true&width=700&lines=Learn.+Build.+Explore.;Ideas+become+experiments.;The+next+chapter+is+still+unwritten."
+    alt="Introduction"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    SOFTWARE DEVELOPMENT &nbsp;•&nbsp; TECHNOLOGY &nbsp;•&nbsp; CURIOSITY
+  </sub>
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="280"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <sub>─────────────── ◆ ───────────────</sub>
+</p>
+
 # 🧭 Welcome
 
 ### **There is no fixed destination.**
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=15&duration=4000&pause=1800&color=64748B&center=true&vCenter=true&width=650&lines=Ideas+become+experiments.;Experiments+become+projects.;Projects+sometimes+become+something+unexpected." alt="Welcome"/>
-</p>
 
 A small corner of the internet where ideas become experiments, experiments become projects, and projects sometimes become something unexpected.
 
@@ -15,7 +49,7 @@ Some are works in progress.
 Others are simply ideas worth exploring.
 
 <p align="center">
-  <sub>─────────────── ✦ ───────────────</sub>
+  <sub>◆ &nbsp; Keep looking. &nbsp; Something may catch your attention. &nbsp; ◆</sub>
 </p>
 
 ---
@@ -23,35 +57,11 @@ Others are simply ideas worth exploring.
 # 🛠️ Technologies
 
 <p align="center">
-  <sub>Languages · Frameworks · Platforms · Tools</sub>
-</p>
-
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs" />
-</p>
-
-### Frameworks & Platforms
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet" />
-</p>
-
-### Runtime & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm,mysql" />
-</p>
-
-### Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs,laravel,dotnet,nodejs,mysql,git,github&perline=6" />
 </p>
 
 <p align="center">
-  <sub>NetBeans · XAMPP · Vite · Composer</sub>
+  <sub>NetBeans · XAMPP · Vite · Composer · VS Code · Visual Studio</sub>
 </p>
 
 ---
@@ -59,7 +69,10 @@ Others are simply ideas worth exploring.
 # 📚 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1400&color=64748B&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals." alt="Currently Learning"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals."
+    alt="Learning"
+  />
 </p>
 
 <p align="center">
@@ -92,12 +105,12 @@ Some things are better discovered.
 
 <p align="center">
   <a href="https://github.com/jBlack-MC?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20EXPLORE%20REPOSITORIES-0F172A?style=for-the-badge&labelColor=0F172A&color=334155"/>
+    <img src="https://img.shields.io/badge/EXPLORE%20THE%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=050505&color=374151"/>
   </a>
 </p>
 
 <p align="center">
-  <sub>You never know what you'll find.</sub>
+  <sub>Somewhere in here, there may be something worth finding.</sub>
 </p>
 
 ---
@@ -109,7 +122,9 @@ Some things are better discovered.
 
 <td width="33%" align="center">
 
-### Technology
+### ◇
+
+**TECHNOLOGY**
 
 New tools.<br>
 New possibilities.<br>
@@ -119,7 +134,9 @@ New questions.
 
 <td width="33%" align="center">
 
-### Ideas
+### ◇
+
+**IDEAS**
 
 Things worth trying.<br>
 Things worth building.<br>
@@ -129,7 +146,9 @@ Things worth questioning.
 
 <td width="33%" align="center">
 
-### What's Next
+### ◇
+
+**WHAT'S NEXT**
 
 Still unknown.<br>
 That's part of<br>
@@ -140,12 +159,8 @@ the fun.
 </tr>
 </table>
 
-<br>
-
 <p align="center">
-
-`Learn`  •  `Explore`  •  `Build`  •  `Discover`
-
+  <sub>LEARN &nbsp;•&nbsp; EXPLORE &nbsp;•&nbsp; BUILD &nbsp;•&nbsp; DISCOVER</sub>
 </p>
 
 ---
@@ -159,7 +174,10 @@ the fun.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=Some+paths+are+found+by+walking+them.;Not+everything+needs+to+be+figured+out." alt="Journey"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=9CA3AF&center=true&vCenter=true&width=600&lines=Some+paths+are+found+by+walking+them.;Not+everything+needs+to+be+figured+out."
+    alt="Journey"
+  />
 </p>
 
 ---
@@ -169,7 +187,7 @@ the fun.
 ### **Keep learning. Keep moving.**
 
 <p align="center">
-  <sub>The destination can wait.</sub>
+  <sub>THE DESTINATION CAN WAIT.</sub>
 </p>
 
 ---
@@ -177,7 +195,10 @@ the fun.
 # 🧪 The Lab
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1600&color=64748B&center=true&vCenter=true&width=600&lines=Ideas.;Experiments.;Discoveries.;Repeat." alt="The Lab"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1500&color=9CA3AF&center=true&vCenter=true&width=600&lines=IDEAS.;EXPERIMENTS.;DISCOVERIES.;REPEAT."
+    alt="The Lab"
+  />
 </p>
 
 <table align="center">
@@ -218,6 +239,8 @@ Things worth keeping.
 
 <br>
 
+<p align="center">
+
 ```text
 ┌────────────────────────────────────────┐
 │                                        │
@@ -229,8 +252,6 @@ Things worth keeping.
 └────────────────────────────────────────┘
 ```
 
-<p align="center">
-  <sub>Still under construction.</sub>
 </p>
 
 ---
@@ -239,26 +260,37 @@ Things worth keeping.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B"
+    src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=9CA3AF&fire=F59E0B&currStreakLabel=E5E7EB&sideLabels=9CA3AF&dates=6B7280"
     width="500"
-    alt="GitHub Contribution Streak"
+    alt="GitHub contribution streak"
   />
-</p>
-
-<p align="center">
-  <sub>Small steps. Consistent progress.</sub>
 </p>
 
 ---
 
 # 🧠 Philosophy
 
+<p align="center">
+
 ### **Learn quietly. Build deliberately. Improve constantly.**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=4500&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going." alt="Philosophy"/>
 </p>
 
 <p align="center">
-  <sub>─────────────── ✦ ───────────────</sub>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=14&duration=4500&pause=1800&color=9CA3AF&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going."
+    alt="Philosophy"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <sub>─────────────── ◆ ───────────────</sub>
+</p>
+
+<!-- A quiet detail for those who scroll this far. -->
+
+<p align="center">
+  <sub>Nothing here is quite finished.</sub>
 </p>
