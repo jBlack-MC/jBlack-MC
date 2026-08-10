@@ -1,16 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=190&section=header&animation=fadeIn" width="100%"/>
+  <sub>─────────────── ✦ ───────────────</sub>
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=4000&pause=1800&color=CBD5E1&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring.;There+is+always+something+new+to+discover.;The+journey+is+still+unfolding." alt="Introduction"/>
-</p>
-
----
 
 # 🧭 Welcome
 
-> **There is no fixed destination.**
+<p align="center">
+
+### **There is no fixed destination.**
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=17&duration=4000&pause=1800&color=64748B&center=true&vCenter=true&width=650&lines=Ideas+become+experiments.;Experiments+become+possibilities.;Some+things+are+better+discovered." alt="Welcome"/>
+</p>
 
 A small corner of the internet where ideas become experiments, experiments become projects, and projects sometimes become something unexpected.
 
@@ -20,16 +22,52 @@ Some are works in progress.
 
 Others are simply ideas worth exploring.
 
+<p align="center">
+  <sub>─────────────── ✦ ───────────────</sub>
+</p>
+
+<p align="center">
+  <i>Take a look around. You might find something interesting.</i>
+</p>
+
 ---
 
 # 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs,laravel,dotnet,mysql,git,github,vscode,visualstudio&perline=7" />
+  <sub>Languages · Frameworks · Platforms · Tools</sub>
+</p>
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs" />
+</p>
+
+### Frameworks & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,dotnet" />
+</p>
+
+### Runtime & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,mysql" />
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 <p align="center">
-  <sub>Tools change. Curiosity stays.</sub>
+  <sub>NetBeans · XAMPP · Vite · Composer</sub>
+</p>
+
+<p align="center">
+  <i>Tools evolve. Fundamentals endure.</i>
 </p>
 
 ---
@@ -37,36 +75,49 @@ Others are simply ideas worth exploring.
 # 📚 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1600&color=94A3B8&center=true&vCenter=true&width=600&lines=Understanding+the+fundamentals.;Going+beyond+the+surface.;Learning+how+things+work.;One+concept+at+a+time." alt="Learning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1500&color=64748B&center=true&vCenter=true&width=600&lines=Going+beyond+the+surface.;Understanding+how+things+work.;Strengthening+the+fundamentals." alt="Currently learning"/>
 </p>
 
-<table align="center">
-<tr>
-<td align="center">Data Structures<br>& Algorithms</td>
-<td align="center">Object-Oriented<br>Programming</td>
-<td align="center">Backend<br>Development</td>
-</tr>
-<tr>
-<td align="center">Software<br>Architecture</td>
-<td align="center">Problem<br>Solving</td>
-<td align="center">Git &<br>GitHub</td>
-</tr>
-</table>
+<p align="center">
+
+`Data Structures & Algorithms`
+ • 
+`Object-Oriented Programming`
+ • 
+`Backend Development`
+
+</p>
+
+<p align="center">
+
+`Software Architecture`
+ • 
+`Problem Solving`
+ • 
+`Git & GitHub`
+
+</p>
+
+<p align="center">
+  <i>The goal isn't just to make things work.</i>
+</p>
 
 ---
 
 # 🚀 Projects
 
-Not everything needs an explanation.
+<p align="center">
+
+### **Not everything needs an explanation.**
+
+</p>
 
 Some things are better discovered.
 
 <p align="center">
-
-<a href="https://github.com/jBlack-MC?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/jBlack-MC?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -79,6 +130,7 @@ Some things are better discovered.
 
 <table align="center">
 <tr>
+
 <td width="33%" align="center">
 
 ### Technology
@@ -108,6 +160,7 @@ That's part of<br>
 the fun.
 
 </td>
+
 </tr>
 </table>
 
@@ -137,23 +190,28 @@ the fun.
 
 # 🎯 Direction
 
-> **Keep learning. Keep moving.**
+<p align="center">
 
-The destination can wait.
+### **Keep learning. Keep moving.**
+
+</p>
+
+<p align="center">
+  <sub>The destination can wait.</sub>
+</p>
 
 ---
 
 # 🧪 The Lab
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1400&color=64748B&center=true&vCenter=true&width=600&lines=Experiment+%23001+%E2%80%94+Learning;Experiment+%23002+%E2%80%94+Building;Experiment+%23003+%E2%80%94+Something+Unexpected;Status%3A+Still+Under+Construction." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=Some+ideas+are+worth+testing.;Some+experiments+are+worth+keeping.;Some+discoveries+change+the+direction." alt="The Lab"/>
 </p>
-
-<br>
 
 <table align="center">
 <tr>
-<td width="250" align="center">
+
+<td width="33%" align="center">
 
 ### 🧠
 
@@ -163,7 +221,7 @@ Things worth exploring.
 
 </td>
 
-<td width="250" align="center">
+<td width="33%" align="center">
 
 ### ⚙️
 
@@ -173,7 +231,7 @@ Things worth trying.
 
 </td>
 
-<td width="250" align="center">
+<td width="33%" align="center">
 
 ### 🔭
 
@@ -182,6 +240,7 @@ Things worth trying.
 Things worth keeping.
 
 </td>
+
 </tr>
 </table>
 
@@ -189,7 +248,7 @@ Things worth keeping.
 
 <p align="center">
 
-```text
+```text id="w7l8i3"
 ┌────────────────────────────────────────┐
 │                                        │
 │     STATUS        EXPERIMENTAL         │
@@ -203,22 +262,25 @@ Things worth keeping.
 </p>
 
 <p align="center">
-  <i>Not everything here is supposed to make sense yet.</i>
+  <sub>Current status: still figuring it out.</sub>
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=475569&center=true&vCenter=true&width=550&lines=Some+experiments+fail.;Some+teach+you+something.;A+few+turn+into+something+else." />
-</p>
-
 
 ---
 
 # 🔥 Consistency
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B" width="500"/>
+
+<img
+src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B"
+width="500"
+alt="GitHub contribution streak"
+/>
+
+</p>
+
+<p align="center">
+  <sub>Small steps. Consistent progress.</sub>
 </p>
 
 ---
@@ -232,23 +294,15 @@ Things worth keeping.
 </p>
 
 <p align="center">
-  <sub>Not everything needs to be announced.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4500&pause=1800&color=64748B&center=true&vCenter=true&width=600&lines=The+work+speaks+for+itself.;Keep+going." alt="Philosophy"/>
 </p>
 
----
+<br>
 
 <p align="center">
-
-<a href="https://github.com/jBlack-MC?tab=repositories">
-  <img src="https://img.shields.io/badge/KEEP%20EXPLORING-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <sub>Learning · Building · Exploring</sub>
 </p>
 
 <p align="center">
-  <sub>Learning • Building • Exploring</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=110&section=footer" width="100%"/>
+  <sub>─────────────── ✦ ───────────────</sub>
 </p>
