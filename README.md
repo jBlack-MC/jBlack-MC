@@ -1,252 +1,191 @@
-<!-- ======================== HEADER ======================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:4F46E5,100:06B6D4&height=220&section=header&text=Hi,%20I'm%20Clarity%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:334155&height=190&section=header&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Software+Development+Student;Aspiring+Software+Developer;Learning+%7C+Building+%7C+Exploring;Always+Curious%2C+Always+Learning" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My%20Repositories-06B6D4?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=4000&pause=1800&color=CBD5E1&center=true&vCenter=true&width=650&lines=Learning.+Building.+Exploring.;There+is+always+something+new+to+discover.;The+journey+is+still+unfolding." alt="Introduction"/>
 </p>
 
 ---
 
-# 🧭 Welcome to My Corner of GitHub
+# 🧭 Welcome
 
-> **There's no fixed destination yet. I'm here to learn, build, experiment, and discover what's next.**
+> **There is no fixed destination.**
 
-💻 **Software Development Student**
-🚀 **Aspiring Software Developer**
-🧠 **Exploring Technology, Creativity & New Ideas**
-🌱 **Always Learning Something New**
+A small corner of the internet where ideas become experiments, experiments become projects, and projects sometimes become something unexpected.
 
-This profile is a collection of things I'm learning, things I'm building, experiments I'm trying, and ideas I'm exploring.
+Some things here are finished.
 
-Some projects may be polished.
+Some are works in progress.
 
-Some may be experiments.
-
-Some may completely change direction.
-
-That's part of the journey. 🚀
+Others are simply ideas worth exploring.
 
 ---
 
 # 🛠️ Technologies
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,php,js,html,css,cs,laravel,dotnet,mysql,git,github,vscode,visualstudio&perline=7" />
 </p>
 
-### ⚙️ Frameworks & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql" />
-</p>
-
-### 🔧 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<p align="center">
+  <sub>Tools change. Curiosity stays.</sub>
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-I'm currently strengthening my foundations and exploring different parts of software development.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1600&color=94A3B8&center=true&vCenter=true&width=600&lines=Understanding+the+fundamentals.;Going+beyond+the+surface.;Learning+how+things+work.;One+concept+at+a+time." alt="Learning"/>
+</p>
 
-```text
-┌──────────────────────────────────────┐
-│                                      │
-│   🧩 Data Structures & Algorithms    │
-│   🏗️ Object-Oriented Programming    │
-│   ⚙️ Backend Development             │
-│   🧠 Software Architecture           │
-│   🔀 Git & GitHub                    │
-│                                      │
-└──────────────────────────────────────┘
-```
-
-> The goal isn't just to make code work — it's to understand **why it works**.
+<table align="center">
+<tr>
+<td align="center">Data Structures<br>& Algorithms</td>
+<td align="center">Object-Oriented<br>Programming</td>
+<td align="center">Backend<br>Development</td>
+</tr>
+<tr>
+<td align="center">Software<br>Architecture</td>
+<td align="center">Problem<br>Solving</td>
+<td align="center">Git &<br>GitHub</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Projects
 
-I'm working on different software projects while learning, experimenting, and improving my development skills.
+Not everything needs an explanation.
 
-Some projects are experiments.
-
-Some are learning experiences.
-
-Some might become something much bigger.
-
-### 🔭 Explore the repositories below
+Some things are better discovered.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/🔎%20Explore%20Repositories-111827?style=for-the-badge&labelColor=111827&color=4F46E5"/>
+<a href="https://github.com/jBlack-MC?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-> **You never know what you'll find. 👀**
+<p align="center">
+  <sub>There may be something interesting hiding in here.</sub>
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🌱 Exploring
 
-```text
-        ┌───────────────────────┐
-        │   🔬 TECHNOLOGY       │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │   🧩 PROBLEM SOLVING  │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │   🌐 DEVELOPMENT      │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │   💡 NEW IDEAS        │
-        └───────────┬───────────┘
-                    │
-        ┌───────────▼───────────┐
-        │   🚀 WHAT'S NEXT?     │
-        └───────────────────────┘
-```
+<table align="center">
+<tr>
+<td width="33%" align="center">
 
-* 🔬 New technologies
-* 🧩 Different areas of software development
-* 🧠 Problem solving
-* 🏗️ Building personal projects
-* 💡 New ideas
-* 🌍 New areas to explore
+### Technology
+
+New tools.<br>
+New possibilities.<br>
+New questions.
+
+</td>
+
+<td width="33%" align="center">
+
+### Ideas
+
+Things worth trying.<br>
+Things worth building.<br>
+Things worth questioning.
+
+</td>
+
+<td width="33%" align="center">
+
+### What's Next
+
+Still unknown.<br>
+That's part of<br>
+the fun.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+`Learn`  •  `Explore`  •  `Build`  •  `Discover`
+
+</p>
 
 ---
 
 # 🗺️ The Journey
 
-```text
-                START
-                  │
-                  ▼
-        ┌─────────────────┐
-        │ Learn the       │
-        │ fundamentals    │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Build something │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Break something │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Figure out why  │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Fix it          │
-        └────────┬────────┘
-                 │
-                 ▼
-        ┌─────────────────┐
-        │ Learn something │
-        │ new             │
-        └────────┬────────┘
-                 │
-                 ▼
-             ┌───────┐
-             │   ?   │
-             └───┬───┘
-                 │
-                 ▼
-              KEEP
-             GOING 🚀
-```
+<p align="center">
 
----
+### `BEGIN → EXPLORE → DISCOVER → ?`
 
-# 🎯 Goals
-
-Continuously develop my technical skills, gain real-world experience, and explore different areas of software development.
-
-For now, I'm keeping the destination open.
-
-> **The path is still being built.**
-
----
-
-# 📊 GitHub Activity
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4500&pause=2000&color=64748B&center=true&vCenter=true&width=600&lines=Not+everything+has+to+be+figured+out.;Some+paths+are+found+by+walking+them." alt="Journey"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 🎯 Direction
+
+> **Keep learning. Keep moving.**
+
+The destination can wait.
+
+---
+
+# 📊 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=CBD5E1&text_color=94A3B8&icon_color=64748B" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&theme=transparent&title_color=CBD5E1&text_color=94A3B8" height="170"/>
 </p>
 
 ---
 
-# 🧠 A Little Philosophy
+# 🔥 Consistency
 
 <p align="center">
-
-### Learn → Build → Break → Understand → Improve → Repeat
-
+  <img src="https://streak-stats.demolab.com?user=jBlack-MC&theme=transparent&hide_border=true&ring=64748B&fire=94A3B8&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B" width="500"/>
 </p>
 
 ---
 
-# 🧭 Keep Exploring
+# 🧠 Philosophy
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Repositories-4F46E5?style=for-the-badge"/>
-</a>
+### **Learn quietly. Build deliberately. Improve constantly.**
 
-<a href="https://github.com/YOUR_USERNAME?tab=stars">
-  <img src="https://img.shields.io/badge/⭐%20Things%20I%20Like-06B6D4?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <sub>Not everything needs to be announced.</sub>
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/jBlack-MC?tab=repositories">
+  <img src="https://img.shields.io/badge/KEEP%20EXPLORING-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
----
-
 <p align="center">
-
-> *Learning, building, experimenting, and figuring out what's next.*
-
+  <sub>Learning • Building • Exploring</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:111827&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1E293B,100:0F172A&height=110&section=footer" width="100%"/>
 </p>
