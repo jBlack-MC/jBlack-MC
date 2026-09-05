@@ -7,6 +7,7 @@
 <p>
   <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Portfolio</a> ·
   <a href="https://github.com/jBlack-MC">Repositories</a> ·
+  <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/">LinkedIn</a> ·
   <a href="https://github.com/jBlack-MC?tab=followers">Follow the journey</a>
 </p>
 
@@ -16,7 +17,7 @@
 
 ## What I build
 
-I turn ideas into usable software while growing a stronger foundation in architecture, databases, cloud platforms and interface design. My projects range from full-stack marketplaces and management systems to mobile applications and interactive 3D web experiences.
+I turn ideas into usable software while growing a stronger foundation in architecture, databases, cloud platforms and interface design. My projects range from full-stack marketplaces and management systems to mobile applications and interactive web experiences.
 
 > **Learn the foundations. Build the system. Improve the experience.**
 
@@ -78,7 +79,6 @@ Marketplace platform for second-hand clothing.
 - Azure DevOps and cloud deployment workflows
 - Backend architecture and reliable data flows
 - Data structures, algorithms and object-oriented design
-- Interactive 3D experiences for the web
 
 ## A little more
 
