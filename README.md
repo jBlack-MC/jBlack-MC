@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=M-NIGHT&fontSize=58&fontColor=E2F8F0&fontAlignY=38&animation=twinkling&color=0:020617,55:0FBA83,100:020617" alt="M-Night animated header" width="100%" />
 
-<a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=1EDB9F&center=true&vCenter=true&width=700&lines=Software+development+student;Building+web+and+mobile+systems;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
+<a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=1EDB9F&center=true&vCenter=true&width=700&lines=Developer+building+web+and+mobile+systems;Turning+ideas+into+usable+software;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
 
 <p>
   <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Portfolio</a> ·
@@ -83,7 +83,7 @@ Marketplace platform for second-hand clothing.
 ## A little more
 
 - Based in South Africa
-- Studying Software Development at Rosebank College
+- Software Development background at Rosebank College
 - Interested in junior software development, web development and application development opportunities
 - I value readable code, honest progress and shipping work that people can actually use
 
