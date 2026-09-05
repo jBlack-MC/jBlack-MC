@@ -80,6 +80,12 @@ Marketplace platform for second-hand clothing.
 - Backend architecture and reliable data flows
 - Data structures, algorithms and object-oriented design
 
+## Certifications
+
+- [AI Foundations](https://academy.openai.com/public/certificate/drdhhi44b7) · OpenAI Academy
+- [A2 English for Developers](https://www.freecodecamp.org/certification/fcc-f7d23adc-f18f-490b-b501-ea2af0483c9c/a2-english-for-developers) · freeCodeCamp
+- [Responsive Web Design](https://www.freecodecamp.org/certification/fcc-f7d23adc-f18f-490b-b501-ea2af0483c9c/responsive-web-design) · freeCodeCamp
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc-f7d23adc-f18f-490b-b501-ea2af0483c9c/javascript-algorithms-and-data-structures) · freeCodeCamp
 ## A little more
 
 - Based in South Africa
