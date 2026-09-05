@@ -1,10 +1,14 @@
 <div align="center">
 
-# M-NIGHT
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=M-NIGHT&fontSize=58&fontColor=E2F8F0&fontAlignY=38&animation=twinkling&color=0:020617,55:0FBA83,100:020617" alt="M-Night animated header" width="100%" />
 
-### Software development student building practical web and mobile systems.
+<a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=1EDB9F&center=true&vCenter=true&width=700&lines=Software+development+student;Building+web+and+mobile+systems;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
 
-[Portfolio](https://github.com/jBlack-MC/M-Night-Portfolio) · [GitHub](https://github.com/jBlack-MC) · [Explore my repositories](https://github.com/jBlack-MC?tab=repositories)
+<p>
+  <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Portfolio</a> ·
+  <a href="https://github.com/jBlack-MC">Repositories</a> ·
+  <a href="https://github.com/jBlack-MC?tab=followers">Follow the journey</a>
+</p>
 
 </div>
 
@@ -18,20 +22,56 @@ I turn ideas into usable software while growing a stronger foundation in archite
 
 ## Selected work
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [M-Night](https://github.com/jBlack-MC/M-night) | Interactive portfolio with a responsive 3D stage and scroll-driven storytelling. | React, TypeScript, Three.js, React Three Fiber |
-| [Gift of the Givers](https://github.com/jBlack-MC/GiftOfTheGivers-HumanitarianAid) | Humanitarian aid management system with role-based workflows and an Azure demo. | ASP.NET Core MVC, EF Core, Azure SQL |
-| [Nanny-App](https://github.com/jBlack-MC/nannyapp) | Childcare booking marketplace connecting parents with verified nannies. | PHP, MySQL, PWA, Android |
-| [Pastimes](https://github.com/jBlack-MC/Pastimes) | Marketplace platform for second-hand clothing. | PHP, HTML, CSS, JavaScript |
+<table>
+<tr>
+<td width="50%">
 
-## Toolkit
+### [M-Night](https://github.com/jBlack-MC/M-night)
 
-**Languages**  C# · PHP · JavaScript · TypeScript · Kotlin · SQL
+Interactive portfolio with a responsive 3D stage and scroll-driven storytelling.
 
-**Frameworks and platforms**  .NET · React · Laravel · Android · Azure
+`React` `TypeScript` `Three.js` `React Three Fiber`
 
-**Tools**  Git · GitHub · VS Code · Visual Studio · Vite · PowerShell
+</td>
+<td width="50%">
+
+### [Gift of the Givers](https://github.com/jBlack-MC/GiftOfTheGivers-HumanitarianAid)
+
+Humanitarian aid management system with role-based workflows and an Azure demo.
+
+`ASP.NET Core` `EF Core` `Azure SQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Nanny-App](https://github.com/jBlack-MC/nannyapp)
+
+Childcare booking marketplace connecting parents with verified nannies.
+
+`PHP` `MySQL` `PWA` `Android`
+
+</td>
+<td width="50%">
+
+### [Pastimes](https://github.com/jBlack-MC/Pastimes)
+
+Marketplace platform for second-hand clothing.
+
+`PHP` `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>View the toolkit</strong></summary>
+<br>
+
+<img src="https://skillicons.dev/icons?i=cs,php,js,ts,kotlin,dotnet,react,laravel,android,azure,mysql,git,github,vscode,visualstudio,vite,powershell&theme=dark" alt="Technology icons" />
+
+</details>
 
 ## Currently learning
 
@@ -50,5 +90,7 @@ I turn ideas into usable software while growing a stronger foundation in archite
 <div align="center">
 
 ### BUILD · LEARN · CREATE
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:020617,55:0FBA83,100:020617" alt="Animated footer" width="100%" />
 
 </div>
