@@ -5,7 +5,8 @@
 <a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=1EDB9F&center=true&vCenter=true&width=700&lines=Developer+building+web+and+mobile+systems;Turning+ideas+into+usable+software;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
 
 <p>
-  <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Portfolio</a> ·
+  <a href="https://fastidious-manatee-beea41.netlify.app/">Live Portfolio</a> Â·
+  <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Source Code</a> Â·
   <a href="https://github.com/jBlack-MC">Repositories</a> ·
   <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/">LinkedIn</a> ·
   <a href="https://github.com/jBlack-MC?tab=followers">Follow the journey</a>
