@@ -24,6 +24,25 @@ I turn ideas into usable software while building a stronger foundation in archit
 
 I am currently open to junior software development, web development and application development opportunities.
 
+<div align="center">
+
+<a href="https://github.com/jBlack-MC"><img height="165" src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=1EDB9F&text_color=E2F8F0&icon_color=1EDB9F&ring_color=1EDB9F&count_private=true" alt="M-Night's GitHub statistics" /></a>
+<a href="https://github.com/jBlack-MC"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&bg_color=020617&title_color=1EDB9F&text_color=E2F8F0&count_private=true" alt="Most used programming languages" /></a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/jBlack-MC"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jBlack-MC&bg_color=020617&color=E2F8F0&line=1EDB9F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" /></a>
+
+</div>
+
+<div align="center">
+
+<a href="https://fastidious-manatee-beea41.netlify.app/"><img src="https://img.shields.io/badge/EXPLORE%20THE%20LIVE%20PORTFOLIO-1EDB9F?style=for-the-badge&logo=netlify&logoColor=020617&labelColor=020617" alt="Explore the live portfolio" /></a>
+
+</div>
+
 ## Selected work
 
 <table>
