@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://fastidious-manatee-beea41.netlify.app/">Live Portfolio</a> Â·
-  <a href="https://github.com/jBlack-MC/M-Night-Portfolio">Source Code</a> Â·
   <a href="https://github.com/jBlack-MC">Repositories</a> ·
   <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/">LinkedIn</a> ·
   <a href="https://github.com/jBlack-MC?tab=followers">Follow the journey</a>
