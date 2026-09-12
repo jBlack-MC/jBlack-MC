@@ -90,13 +90,13 @@ Marketplace platform for second-hand clothing.
 </tr>
 </table>
 
-<details>
-<summary><strong>🧰 View the toolkit</strong></summary>
-<br>
+### 🧰 Toolkit
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=cs,php,js,ts,kotlin,dotnet,react,laravel,android,azure,mysql,git,github,vscode,visualstudio,vite,powershell&theme=dark" alt="Technology icons" />
 
-</details>
+</div>
 
 ---
 
