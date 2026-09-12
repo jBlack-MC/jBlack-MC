@@ -25,14 +25,8 @@ I am currently open to junior software development, web development and applicat
 
 <div align="center">
 
-<a href="https://github.com/jBlack-MC"><img height="165" src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=1EDB9F&text_color=E2F8F0&icon_color=1EDB9F&ring_color=1EDB9F&count_private=true" alt="M-Night's GitHub statistics" /></a>
-<a href="https://github.com/jBlack-MC"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&bg_color=020617&title_color=1EDB9F&text_color=E2F8F0&count_private=true" alt="Most used programming languages" /></a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/jBlack-MC"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jBlack-MC&bg_color=020617&color=E2F8F0&line=1EDB9F&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" /></a>
+<!-- Generated automatically by .github/workflows/metrics.yml — see that file for the source config -->
+<img src="./metrics.svg" alt="M-Night's GitHub metrics" width="100%" />
 
 </div>
 
