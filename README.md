@@ -27,10 +27,10 @@ I am currently open to junior software development, web development and applicat
 
 <div align="center">
 
-### 🌙 Night Mode
+
 
 <p align="center">
-  <img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="500" />
+  <img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="1000" />
 </p>
 
 </div>
