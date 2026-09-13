@@ -27,17 +27,11 @@ I am currently open to junior software development, web development and applicat
 
 <div align="center">
 
-### 📊 GitHub metrics
+### 🌙 Night Mode
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jBlack-MC/jBlack-MC/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jBlack-MC/jBlack-MC/output/github-contribution-grid-snake.svg" />
-    <img alt="M-Night's contribution snake" src="https://raw.githubusercontent.com/jBlack-MC/jBlack-MC/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="500" />
 </p>
-
-<sub>Auto-generated daily by <code>.github/workflows/snake.yml</code></sub>
 
 </div>
 
