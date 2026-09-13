@@ -9,7 +9,7 @@
 <a href="https://fastidious-manatee-beea41.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=020617" alt="Live portfolio" /></a>
 <a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/REPOSITORIES-F2C744?style=for-the-badge&logo=github&logoColor=020617" alt="Repositories" /></a>
 <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E2F8F0" alt="LinkedIn" /></a>
-<a href="https://github.com/jBlack-MC?tab=followers"><img src="https://img.shields.io/github/followers/jBlack-MC?style=for-the-badge&color=FF6AC1&labelColor=020617&logo=github&logoColor=E2F8F0&label=FOLLOWERS" alt="Followers" /></a>
+<a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/PROFILE%20VIEWS-FF6AC1?style=for-the-badge&logo=github&logoColor=E2F8F0&label=VIEWS" alt="Profile views" /></a>
 
 </div>
 
