@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="600" />
+<img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="999" />
 
 </div>
 
