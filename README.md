@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=M-NIGHT&fontSize=58&fontColor=E2F8F0&fontAlignY=38&animation=twinkling&color=0:020617,55:0FBA83,100:020617" alt="M-Night animated header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=M-NIGHT&fontSize=58&fontColor=E2F8F0&fontAlignY=38&animation=twinkling&color=0:020617,35:0FBA83,70:8B5CF6,100:020617" alt="M-Night animated header" width="100%" />
 
-<a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=1EDB9F&center=true&vCenter=true&width=700&lines=Developer+building+web+and+mobile+systems;Turning+ideas+into+usable+software;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
+<a href="https://github.com/jBlack-MC/M-Night-Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&duration=3500&pause=1100&color=A78BFA&center=true&vCenter=true&width=700&lines=Developer+building+web+and+mobile+systems;Turning+ideas+into+usable+software;Learning+the+foundations.+Improving+the+experience." alt="Animated introduction" /></a>
 
 <br>
 
 <a href="https://fastidious-manatee-beea41.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=020617" alt="Live portfolio" /></a>
-<a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/REPOSITORIES-F2C744?style=for-the-badge&logo=github&logoColor=020617" alt="Repositories" /></a>
+<a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=E2F8F0" alt="Repositories" /></a>
 <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E2F8F0" alt="LinkedIn" /></a>
 
 <br><br>
@@ -43,7 +43,7 @@ Interactive portfolio with a responsive 3D stage and scroll-driven storytelling.
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=020617" alt="React" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=FFFFFF" alt="Three.js" />
-<img src="https://img.shields.io/badge/React%20Three%20Fiber-1EDB9F?style=flat-square&logoColor=020617" alt="React Three Fiber" />
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-8B5CF6?style=flat-square&logoColor=E2F8F0" alt="React Three Fiber" />
 
 </td>
 <td width="50%" valign="top">
@@ -100,8 +100,8 @@ Marketplace platform for second-hand clothing.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=1EDB9F&icon_color=0FBA83&text_color=E2F8F0" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=0FBA83&fire=1EDB9F&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E2F8F0" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" />
 
 </div>
 
@@ -154,6 +154,6 @@ Marketplace platform for second-hand clothing.
 
 ### BUILD · LEARN · CREATE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:020617,55:0FBA83,100:020617" alt="Animated footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=0:020617,35:0FBA83,70:8B5CF6,100:020617" alt="Animated footer" width="100%" />
 
 </div>
