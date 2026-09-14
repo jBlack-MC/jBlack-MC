@@ -9,6 +9,7 @@
 <a href="https://fastidious-manatee-beea41.netlify.app/"><img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=020617" alt="Live portfolio" /></a>
 <a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/REPOSITORIES-8B5CF6?style=for-the-badge&logo=github&logoColor=E2F8F0" alt="Repositories" /></a>
 <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E2F8F0" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0FBA83?style=for-the-badge&logoColor=020617" alt="Open to work" />
 
 <br><br>
 
@@ -21,7 +22,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=About%20Me&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="About Me section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=About%20Me&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="About Me section heading" width="100%" />
 </div>
 
 I turn ideas into usable software while building a stronger foundation in architecture, databases, cloud platforms and interface design. My work spans full-stack marketplaces, management systems, mobile applications and interactive web experiences.
@@ -33,7 +34,7 @@ I am currently open to junior software development, web development and applicat
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Selected%20Work&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="Selected work section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Selected%20Work&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Selected work section heading" width="100%" />
 </div>
 
 <table>
@@ -91,7 +92,7 @@ Marketplace platform for second-hand clothing.
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=50&text=Toolkit&fontSize=20&fontColor=E2F8F0&fontAlignY=60" alt="Toolkit section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=50&text=Toolkit&fontSize=16&fontColor=E2F8F0&fontAlignY=60" alt="Toolkit section heading" width="100%" />
 </div>
 
 <div align="center">
@@ -103,17 +104,17 @@ Marketplace platform for second-hand clothing.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=GitHub%20Activity&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="GitHub activity section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=GitHub%20Activity&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="GitHub activity section heading" width="100%" />
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E2F8F0" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" />
+<a href="https://github.com/jBlack-MC"><img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E2F8F0" alt="GitHub stats" height="165" /></a>
+<a href="https://github.com/jBlack-MC"><img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" /></a>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E2F8F0&langs_count=8" alt="Most used languages" height="165" />
+<a href="https://github.com/jBlack-MC"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E2F8F0&langs_count=8" alt="Most used languages" height="165" /></a>
 
 </div>
 
@@ -124,7 +125,7 @@ Marketplace platform for second-hand clothing.
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Current%20Focus&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Current focus section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Current%20Focus&fontSize=14&fontColor=E2F8F0&fontAlignY=60" alt="Current focus section heading" width="100%" />
 </div>
 
 - Azure DevOps and cloud deployment workflows
@@ -135,7 +136,7 @@ Marketplace platform for second-hand clothing.
 <td width="50%" valign="top">
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Working%20Style&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Working style section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Working%20Style&fontSize=14&fontColor=E2F8F0&fontAlignY=60" alt="Working style section heading" width="100%" />
 </div>
 
 - I prefer readable code, clear interfaces and practical solutions.
@@ -149,7 +150,7 @@ Marketplace platform for second-hand clothing.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Certifications&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="Certifications section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Certifications&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Certifications section heading" width="100%" />
 </div>
 
 <p>
@@ -162,7 +163,7 @@ Marketplace platform for second-hand clothing.
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=More%20About%20Me&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="More about me section heading" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=More%20About%20Me&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="More about me section heading" width="100%" />
 </div>
 
 - Software Development background at Rosebank College
