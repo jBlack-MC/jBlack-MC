@@ -20,7 +20,9 @@
 
 ---
 
-## 🧭 Software developer building useful systems
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=About%20Me&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="About Me section heading" width="100%" />
+</div>
 
 I turn ideas into usable software while building a stronger foundation in architecture, databases, cloud platforms and interface design. My work spans full-stack marketplaces, management systems, mobile applications and interactive web experiences.
 
@@ -30,7 +32,9 @@ I am currently open to junior software development, web development and applicat
 
 ---
 
-## 🚀 Selected work
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Selected%20Work&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="Selected work section heading" width="100%" />
+</div>
 
 <table>
 <tr>
@@ -86,7 +90,9 @@ Marketplace platform for second-hand clothing.
 </tr>
 </table>
 
-### 🧰 Toolkit
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=50&text=Toolkit&fontSize=20&fontColor=E2F8F0&fontAlignY=60" alt="Toolkit section heading" width="100%" />
+</div>
 
 <div align="center">
 
@@ -96,12 +102,18 @@ Marketplace platform for second-hand clothing.
 
 ---
 
-## 📊 GitHub activity
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=GitHub%20Activity&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="GitHub activity section heading" width="100%" />
+</div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=8B5CF6&text_color=E2F8F0" alt="GitHub stats" height="165" />
 <img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=8B5CF6&fire=A78BFA&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jBlack-MC&layout=compact&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=E2F8F0&langs_count=8" alt="Most used languages" height="165" />
 
 </div>
 
@@ -111,7 +123,9 @@ Marketplace platform for second-hand clothing.
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Current focus
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Current%20Focus&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Current focus section heading" width="100%" />
+</div>
 
 - Azure DevOps and cloud deployment workflows
 - Backend architecture and reliable data flows
@@ -120,7 +134,9 @@ Marketplace platform for second-hand clothing.
 </td>
 <td width="50%" valign="top">
 
-### 🛠️ Working style
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=45&text=Working%20Style&fontSize=18&fontColor=E2F8F0&fontAlignY=60" alt="Working style section heading" width="100%" />
+</div>
 
 - I prefer readable code, clear interfaces and practical solutions.
 - I learn by building, testing and improving real projects.
@@ -132,7 +148,9 @@ Marketplace platform for second-hand clothing.
 
 ---
 
-## 📜 Certifications
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=Certifications&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="Certifications section heading" width="100%" />
+</div>
 
 <p>
 <a href="https://academy.openai.com/public/certificate/drdhhi44b7"><img src="https://img.shields.io/badge/AI%20Foundations-OpenAI%20Academy-10A37F?style=for-the-badge&logo=openai&logoColor=E2F8F0&labelColor=020617" alt="AI Foundations - OpenAI Academy" /></a>
@@ -143,7 +161,9 @@ Marketplace platform for second-hand clothing.
 <a href="https://www.freecodecamp.org/certification/fcc-f7d23adc-f18f-490b-b501-ea2af0483c9c/javascript-algorithms-and-data-structures"><img src="https://img.shields.io/badge/JS%20Algorithms%20and%20Data%20Structures-freeCodeCamp-0A8754?style=for-the-badge&logo=freecodecamp&logoColor=E2F8F0&labelColor=020617" alt="JavaScript Algorithms and Data Structures - freeCodeCamp" /></a>
 </p>
 
-## 🌍 A little more
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FBA83,100:8B5CF6&height=60&text=More%20About%20Me&fontSize=24&fontColor=E2F8F0&fontAlignY=60" alt="More about me section heading" width="100%" />
+</div>
 
 - Software Development background at Rosebank College
 - Based in South Africa, building toward a career in software development
