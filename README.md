@@ -10,6 +10,10 @@
 <a href="https://github.com/jBlack-MC"><img src="https://img.shields.io/badge/REPOSITORIES-F2C744?style=for-the-badge&logo=github&logoColor=020617" alt="Repositories" /></a>
 <a href="https://www.linkedin.com/in/clarity-masuku-50a150325/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=E2F8F0" alt="LinkedIn" /></a>
 
+<br><br>
+
+<img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="600" />
+
 </div>
 
 <br>
@@ -22,17 +26,7 @@ I turn ideas into usable software while building a stronger foundation in archit
 
 > **Learn the foundations. Build the system. Improve the experience.**
 
-I am currently open to junior software development, web development and application development opportunities.
-
-<div align="center">
-
-
-
-<p align="center">
-  <img src="https://i.gifer.com/6T3c.gif" alt="Night coding animation" width="1000" />
-</p>
-
-</div>
+I am currently open to junior software development, web development and application development roles.
 
 ---
 
@@ -102,6 +96,17 @@ Marketplace platform for second-hand clothing.
 
 ---
 
+## 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jBlack-MC&show_icons=true&hide_border=true&bg_color=020617&title_color=1EDB9F&icon_color=0FBA83&text_color=E2F8F0" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=jBlack-MC&hide_border=true&background=020617&ring=0FBA83&fire=1EDB9F&currStreakLabel=E2F8F0&sideLabels=E2F8F0&dates=8A94A6" alt="GitHub streak stats" height="165" />
+
+</div>
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -141,8 +146,7 @@ Marketplace platform for second-hand clothing.
 ## 🌍 A little more
 
 - Software Development background at Rosebank College
-- Interested in junior software development, web development and application development opportunities
-- Based in South Africa and building toward a career in software development
+- Based in South Africa, building toward a career in software development
 
 ---
 
